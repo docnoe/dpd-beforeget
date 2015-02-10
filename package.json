@@ -1,6 +1,6 @@
 {
   "name": "dpd-beforeget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds \"before get\" event to Deployd collections",
   "main": "index.js",
   "scripts": {
