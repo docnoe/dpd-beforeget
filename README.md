@@ -1,4 +1,11 @@
 # dpd-beforeget
+
+# DEPRECATED
+
+### Update to latest deployd and use the built-in "beforerequest"
+
+# Old docs in case you want to use it anyway
+
 Adds a `beforeget` event to standard Deployd collections.
 
 ## Why
